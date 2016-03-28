@@ -1,0 +1,28 @@
+name: tomkilian
+favicon: null
+layout_spectrum: 0.6827214097138494
+typography_spectrum: 0.31994594633579254
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5442979426588863
+  lightness: 0.749664852861315
+  saturation: 0.5971900289878249
+  rhythmicContrast: 0.4198390634264797
+purpose: []
